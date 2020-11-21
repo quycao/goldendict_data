@@ -1,0 +1,22 @@
+/* Put this to ~/.goldendict/ */
+body {
+  background: #4b5162;
+}
+MainWindow #searchPane,
+MainWindow #searchPane #translateLine,
+MainWindow #searchPane #wordList {
+  background: #13191c;
+  color: white;
+}
+MainWindow #favoritesPane #favoritesTree {
+  background: #4b5162;
+  color: white;
+}
+MainWindow #translateLine,
+ScanPopup #translateLine,
+MainWindow #wordList,
+MainWindow #dictsPane #dictsList,
+MainWindow #historyPane #historyList {
+  background: #4b5162;
+  color: #d4d2cf;
+}
